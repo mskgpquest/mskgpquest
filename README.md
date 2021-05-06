@@ -13,9 +13,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a 
-- 💼 I’m currently pursuing my final year of Bachelor's degree in 
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
+- 👨🏽‍💻 I’m a programmer
+- 💼 I’m currently pursuing my final year of Bachelor's degree in India 
+- 🤔 My interests are with Data Science 📊, Web App Development 🖥️, Android App Development 📱, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via  or ping me on [LinkedIn]to reach me;
